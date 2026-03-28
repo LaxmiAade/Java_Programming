@@ -20,7 +20,6 @@ class program1
 {
     public static void main(String[] args)
     {
-        
         logic obj = new logic();
         obj.SumEvenNo(10);
         
