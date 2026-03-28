@@ -22,6 +22,5 @@ class program1
     {
         logic obj = new logic();
         obj.SumEvenNo(10);
-        
     }
 }
